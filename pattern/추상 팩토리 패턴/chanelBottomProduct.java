@@ -1,0 +1,6 @@
+package pattern;
+
+//»þ³Ú ÇÏÀÇ Á¦Ç°Å¬·¡½º
+public class chanelBottomProduct implements bottomProduct{
+
+}
